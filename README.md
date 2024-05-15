@@ -57,9 +57,6 @@ Welcome to my GitHub profile! I'm a dynamic data professional with a Master’s 
 - **Email:** [azamkhan2013@outlook.com](mailto:azamkhan2013@outlook.com)
 - **LinkedIn:** [azam-khan97](https://www.linkedin.com/in/azam-khan97/)
 
-## ⚡ Fun Fact
-
-I'm always up for a challenge, whether it's solving a complex data problem or exploring the latest trends in AI and machine learning. When I'm not diving into data, you can find me exploring new tech gadgets or enjoying a good book.
 
 <!---
 azamkhan2013/azamkhan2013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
